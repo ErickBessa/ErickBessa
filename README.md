@@ -3,6 +3,7 @@
 - 🧑🏾‍🎓 Formado em Eng. Elétrica
 - 👨🏾‍💻 Desenvolvedor de software (backend) 
 - 😊 3+ anos de experiência
+- 🌟 Top 100 da [Maratona Behind the Code 2021](https://www.ibm.com/blogs/digital-transformation/br-pt/maratona-behind-the-code/)
 
 <div align="center">
   <a href="https://github.com/ErickBessa">
