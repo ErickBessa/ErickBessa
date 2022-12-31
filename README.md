@@ -1,4 +1,8 @@
-## Olá! Eu sou Erick Bessa desenvolvedor de software (backend) e apaixonado por tecnologia 
+## Olá! Eu sou Erick Bessa 
+
+- 🧑🏾‍🎓 Formado em Eng. Elétrica
+- 👨🏾‍💻 Desenvolvedor de software (backend) 
+- 😊 3+ anos de experiência
 
 <div align="center">
   <a href="https://github.com/ErickBessa">
